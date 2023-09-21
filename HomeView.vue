@@ -5,7 +5,7 @@
     </header>
     <main>
       <section class="intro">
-        <h2>Hello, I'm John Doe</h2>
+        <h2>Hello, I'm Saksham</h2>
         <p>Welcome to my portfolio website. I'm a web developer passionate about creating user-friendly and visually appealing websites. Explore my projects below.</p>
       </section>
       <section class="featured-projects">
