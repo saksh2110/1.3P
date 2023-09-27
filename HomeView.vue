@@ -48,13 +48,11 @@ export default {
           id: 1,
           title: "Project 1",
           description: "This is an imaginary project description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-          image: "project1.jpg",
         },
         {
           id: 2,
           title: "Project 2",
           description: "Another imaginary project description. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          image: "project2.jpg",
         },
       ],
     };
